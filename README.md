@@ -13,7 +13,7 @@ Although empirical evidence shows that antidepressants are effective and superio
 
 ```bash
 git clone https://github.com/bhaenisch/nchem_antidepressants.git
-cd nchem_raad
+cd nchem_antidepressants
 
 python3 -m venv .env
 
